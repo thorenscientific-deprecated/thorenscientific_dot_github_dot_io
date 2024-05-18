@@ -3,24 +3,6 @@ title: Home
 layout: home
 ---
 
-Thoren Scientific Website Test
-
-Embedding YouTube
-======
-
-And here's another method using "iframes", taken from [Stackoverflow: How can I embed a YouTube video on GitHub wiki pages?](https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages)
-
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
-
-
-
-
-Original Text:
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
