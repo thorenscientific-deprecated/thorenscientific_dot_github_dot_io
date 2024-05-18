@@ -4,6 +4,19 @@ title: Home
 nav_order: 1
 ---
 
+# Navigation Structure
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+---
 
 Embedding YouTube
 ======
