@@ -6,7 +6,17 @@ description: "Thoren Scientific Home Page"
 permalink: /
 ---
 
-Embedding YouTube
+Welcome to Thoren Scientific
+======
+
+**[Mark's LinkedIn](https://www.linkedin.com/in/mark-thoren/)**
+**[Thorenscientific YouTube Channel](www.youtube.com/@thorenscientific)**
+
+I'm not 100% sure what I'm going to put here yet, most likely links to handy resources that I've collected over the years, documetation for my sciencey stuff that is far removed from my day job (the boundaries are fuzzy), and who knows what else.
+
+
+
+Here's a test of embedding YouTube:
 ======
 
 Here is a test edit, and inclusion of a YouTube video. Instructions were taken from:
@@ -19,4 +29,4 @@ Here is a test edit, and inclusion of a YouTube video. Instructions were taken f
 
 
 
-Some Test Text.
+Some more test text.
