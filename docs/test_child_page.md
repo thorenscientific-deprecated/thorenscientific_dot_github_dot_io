@@ -1,7 +1,7 @@
 ---
 layout: default
-title: A First Child Page
-nav_order: 4
+title: A Test Child Page
+nav_order: 5
 ---
 # Configuration (Theres' a "no_toc" tag below this line.)
 {: .no_toc }
@@ -18,7 +18,7 @@ A place to experiment with formatting and stuff.
 ---
 
 
-A First Child Page!! (five = below this line)
+A TEST Child Page!! (five = below this line)
 =====
 
 random text

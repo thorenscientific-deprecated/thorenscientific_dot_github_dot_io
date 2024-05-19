@@ -9,7 +9,8 @@ permalink: /
 Welcome to Thoren Scientific
 ======
 
-**[Mark's LinkedIn](https://www.linkedin.com/in/mark-thoren/)**
+**[Mark's LinkedIn](https://www.linkedin.com/in/mark-thoren/)**  
+
 **[Thorenscientific YouTube Channel](www.youtube.com/@thorenscientific)**
 
 I'm not 100% sure what I'm going to put here yet, most likely links to handy resources that I've collected over the years, documetation for my sciencey stuff that is far removed from my day job (the boundaries are fuzzy), and who knows what else.
@@ -24,7 +25,9 @@ Here is a test edit, and inclusion of a YouTube video. Instructions were taken f
 
 {% include youtube.html id="dQw4w9WgXcQ" %}
 
+And testing out a smaller frame:
 
+{% include youtube_small.html id="dQw4w9WgXcQ" %}
 
 
 
