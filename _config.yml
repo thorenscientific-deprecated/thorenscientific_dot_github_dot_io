@@ -52,5 +52,18 @@ favicon_ico: "/favicon.ico"
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/nerd_points_at_shiny_object.jpg"
 
+# External navigation links
+nav_external_links:
+  - title: ThorenScientific YouTube Channel
+    url: https://www.youtube.com/@thorenscientific
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+  - title: Mark's LinkedIn
+    url: https://www.linkedin.com/in/mark-thoren
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+
+
+
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2024 Thoren Scientific"
