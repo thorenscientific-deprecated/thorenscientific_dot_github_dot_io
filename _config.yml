@@ -31,10 +31,11 @@ theme: just-the-docs
 
 # remote_theme: pages-themes/modernist@v0.2.0
 
-url: https://just-the-docs.github.io
+url: https://thorenscientific.github.io/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Thorenscientific on GitHub":
+    - "//github.com/thorenscientific/thorenscientific.github.io"
 
 search_enabled: true
 
@@ -48,3 +49,8 @@ favicon_ico: "/favicon.ico"
 
 # permalink: pretty
 
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/nerd_points_at_shiny_object.jpg"
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2024 Thoren Scientific"
